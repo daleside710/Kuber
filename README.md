@@ -1,10 +1,10 @@
-# nuber-server
+- nuber-server
 
-Server for the Uber Clone Course. GraphQL, Typescript, NodeJS
+Server for the Uber Clone. GraphQL, Typescript, NodeJS
 
-## Resolvers
+- Resolvers
 
-### Public Resolvers:
+- Public Resolvers:
 
 - [x] Sign In / Sign Up with Facebook
 - [x] Sign In with Email
@@ -14,14 +14,14 @@ Server for the Uber Clone Course. GraphQL, Typescript, NodeJS
 
 ---
 
-### Authentication:
+- Authentication:
 
 - [x] Generate JWT
 - [x] Verifiy JWT
 
 ---
 
-### Private Resolvers:
+- Private Resolvers:
 
 - [x] Get my Profile
 - [x] Request Email Verification
@@ -46,7 +46,3 @@ Server for the Uber Clone Course. GraphQL, Typescript, NodeJS
 - [x] Send a Chat Message
 - [x] Subscribe to Chat Room Messages
 
-## Code Challenge
-
-- [ ] Get Ride History
-- [ ] See Ride Detail
