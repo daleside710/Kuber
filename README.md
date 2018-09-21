@@ -1,6 +1,6 @@
 # nuber-server
 
-Server for the (N)Uber Clone Course. GraphQL, Typescript, NodeJS
+Server for the Uber Clone Course. GraphQL, Typescript, NodeJS
 
 ## Resolvers
 
